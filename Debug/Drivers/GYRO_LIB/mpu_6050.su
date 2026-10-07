@@ -1,0 +1,2 @@
+../Drivers/GYRO_LIB/mpu_6050.c:2:6:MPU6050_Init	40	static
+../Drivers/GYRO_LIB/mpu_6050.c:27:7:MPU_6050_POSITION	88	static
