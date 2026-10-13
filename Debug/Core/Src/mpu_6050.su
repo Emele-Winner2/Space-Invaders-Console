@@ -1,0 +1,2 @@
+../Core/Src/mpu_6050.c:2:6:MPU6050_Init	40	static
+../Core/Src/mpu_6050.c:26:5:MPU_6050_POSITION	88	static

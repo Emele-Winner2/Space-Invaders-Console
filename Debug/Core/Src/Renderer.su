@@ -1,0 +1,4 @@
+../Core/Src/Renderer.c:24:6:Default_Render	32	static
+../Core/Src/Renderer.c:44:6:Render_Tilt	32	static
+../Core/Src/Renderer.c:54:6:Renderer_Frame	32	static
+../Core/Src/Renderer.c:84:6:Bullet_Shot	24	static
