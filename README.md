@@ -1,6 +1,6 @@
 # STM32 Embedded Space Shooter / Invaders
 
-An interactive arcade game built entirely from scratch for STM32 microcontrollers. This project implements a non-blocking, interrupt-driven embedded game engine featuring real-time accelerometer tilt controls, dynamic sprite rendering, bullet slot management, and bounding-box collision detection on an SSD1306 OLED display.
+An interactive arcade game built entirely from scratch using the stm32F401RCT6. This project implements a non-blocking, interrupt-driven embedded game engine featuring real-time accelerometer tilt controls, dynamic sprite rendering, bullet slot management, and bounding-box collision detection on an SSD1306 OLED display.
 
 ---
 
