@@ -1,0 +1,10 @@
+../Core/Src/main.c:68:6:Tone	4	static
+../Core/Src/main.c:78:6:noTone	0	static
+../Core/Src/main.c:83:6:playLaser	8	static
+../Core/Src/main.c:91:6:playInvaderStep	8	static
+../Core/Src/main.c:160:6:SystemClock_Config	72	static,ignoring_inline_asm
+../Core/Src/main.c:107:5:main	104	static,ignoring_inline_asm
+../Core/Src/main.c:384:5:__io_putchar	16	static
+../Core/Src/main.c:389:6:HAL_TIM_OC_DelayElapsedCallback	0	static
+../Core/Src/main.c:403:6:HAL_GPIO_EXTI_Callback	12	static
+../Core/Src/main.c:421:6:Error_Handler	0	static,ignoring_inline_asm
